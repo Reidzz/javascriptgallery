@@ -1,3 +1,4 @@
+// see my comments below :)
 const bannatyneImgs = ['<img src="images/bannatynes/28-06-19/IMG_0316.jpg" class="gallery" alt="#">',
                        '<img src="images/bannatynes/28-06-19/IMG_0317.jpg" class="gallery" alt="#">',
                        '<img src="images/bannatynes/28-06-19/IMG_0318.jpg" class="gallery" alt="#">',
